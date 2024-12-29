@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.GUI", "Lab05.GUI\Lab05.GUI.csproj", "{232559F3-1814-4BFF-A98C-57A034FEE6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.DAL", "Lab05.DAL\Lab05.DAL.csproj", "{16A2E101-10B6-40BA-9C62-3FF0C451D3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.BUS", "Lab05.BUS\Lab05.BUS.csproj", "{B090D65F-E758-43B5-888E-425DBF94DE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232559F3-1814-4BFF-A98C-57A034FEE6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232559F3-1814-4BFF-A98C-57A034FEE6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232559F3-1814-4BFF-A98C-57A034FEE6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232559F3-1814-4BFF-A98C-57A034FEE6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A2E101-10B6-40BA-9C62-3FF0C451D3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A2E101-10B6-40BA-9C62-3FF0C451D3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A2E101-10B6-40BA-9C62-3FF0C451D3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A2E101-10B6-40BA-9C62-3FF0C451D3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B090D65F-E758-43B5-888E-425DBF94DE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B090D65F-E758-43B5-888E-425DBF94DE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B090D65F-E758-43B5-888E-425DBF94DE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B090D65F-E758-43B5-888E-425DBF94DE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94AEA8FA-FADE-4819-A415-C5B58AF6C6A4}
+	EndGlobalSection
+EndGlobal
